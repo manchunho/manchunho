@@ -2,7 +2,7 @@
 My name is Man Chun Ho
 - Previously: Senior Analyst Programmer at Sun Hing Holdings Limited.
   
-- Skilled in C#, .Net, JavaScript, Spring Framework, Hibernate, Jsp, Java, Bootstrap, HTML, MSSQL, MySQL, SSRS and CSS and enhancing my skills in the field of Full Stack Development as well as Cloud computing and Python Looking forward to learn more skills in technology industry.
+- Skilled in C#, .Net, JavaScript, Spring Framework, Hibernate, Jsp, Java, Bootstrap, HTML, MSSQL, MySQL, SSRS and CSS and enhancing my skills in the field of Full Stack Development as well as Cloud computing and Python. Looking forward to learn more skills in technology industry.
   
 -   📃 I'm currently learning:
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white)
