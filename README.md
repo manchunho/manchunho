@@ -1,15 +1,16 @@
 ## Welcome 👋
 My name is Man Chun Ho
 - Previously: Senior Analyst Programmer at Sun Hing Holdings Limited.
-
-Skilled in C#, .Net, JavaScript, Spring Framework, Hibernate, Jsp, Java, Bootstrap, HTML, MSSQL, MySQL, SSRS and CSS and enhancing my skills in the field of Full Stack Development as well as Cloud computing and Python Looking forward to learn more skills in technology industry.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manchunho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/man-chun-ho-jack/)  
-
-### 📃 I'm currently learning:
+  
+- Skilled in C#, .Net, JavaScript, Spring Framework, Hibernate, Jsp, Java, Bootstrap, HTML, MSSQL, MySQL, SSRS and CSS and enhancing my skills in the field of Full Stack Development as well as Cloud computing and Python Looking forward to learn more skills in technology industry.
+  
+-   📃 I'm currently learning:
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+- 📫 How to reach me: manchunho711@gmail.com
+
 
 
 ## Skills
@@ -52,5 +53,5 @@ Skilled in C#, .Net, JavaScript, Spring Framework, Hibernate, Jsp, Java, Bootstr
 - Microsoft Certified: Azure Fundamentals
 - AWS Certified Cloud Practitioner
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manchunho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/man-chun-ho-jack/)  
 
