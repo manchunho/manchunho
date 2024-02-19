@@ -42,7 +42,10 @@ Skilled in C#, .Net, JavaScript, Spring Framework, Hibernate, Jsp, Java, Bootstr
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-154881?style=for-the-badge&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![jquery](https://img.shields.io/badge/jquery-000000?style=for-the-badge&logo=jquery&logoColor=white)
+
 
 ### :page_with_curl: Certification
 - Microsoft Certified: Azure Developer Associate
