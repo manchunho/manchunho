@@ -14,13 +14,13 @@ My name is Man Chun Ho
 
 
 ## Skills
-### 💬 Language
+### 💬 Languages
 ![English](https://img.shields.io/badge/English-000000?style=for-the-badge&logoColor=white)
 ![Mandarin](https://img.shields.io/badge/Mandarin-000000?style=for-the-badge&logoColor=white)
 ![Cantonese](https://img.shields.io/badge/Cantonese-000000?style=for-the-badge&logoColor=white)
 ![Japanese](https://img.shields.io/badge/Japanese-000000?style=for-the-badge&logoColor=white)
 
-### 🛠 Programming Language
+### 🛠 Programming Languages
 
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-4B4B77?style=for-the-badge&logoColor=white)
@@ -48,7 +48,7 @@ My name is Man Chun Ho
 ![jquery](https://img.shields.io/badge/jquery-000000?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-### :page_with_curl: Certification
+### :page_with_curl: Certifications
 - Microsoft Certified: Azure Developer Associate
 - Microsoft Certified: Azure Fundamentals
 - AWS Certified Cloud Practitioner
