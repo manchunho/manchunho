@@ -20,7 +20,7 @@ My name is Man Chun Ho
 ![Cantonese](https://img.shields.io/badge/Cantonese-000000?style=for-the-badge&logoColor=white)
 ![Japanese](https://img.shields.io/badge/Japanese-000000?style=for-the-badge&logoColor=white)
 
-### 🛠 Program Language
+### 🛠 Programming Language
 
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-4B4B77?style=for-the-badge&logoColor=white)
@@ -55,3 +55,13 @@ My name is Man Chun Ho
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manchunho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/man-chun-ho-jack/)  
 
+
+![JS](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logoColor=white)
+![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=JSON&logoColor=white)
+![JSS](https://img.shields.io/badge/jss-000000?style=for-the-badge&logo=jss&logoColor=white)
+![jquery](https://img.shields.io/badge/jquery-000000?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=white)
+![Jsp](https://img.shields.io/badge/Jsp-000000?style=for-the-badge&logoColor=white)
